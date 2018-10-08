@@ -45,8 +45,6 @@ Additional Info
 
 * The full response (not usually needed) is stored in `$bitcore->response` while the raw JSON is stored in `$bitcore->raw_response`
 
-*Forked from https://github.com/aceat64/EasyBitcoin-PHP*
-
 Example
 -------
 *getnetworkinfo.php*
@@ -66,3 +64,6 @@ Ressources
 * [YouTube Tutorial 5](https://www.youtube.com/watch?v=ARL_PvDEBtU&index=5&list=PLhWIQKZKupCawKJQBAEJc-Y4I30HQ6KBH) Bitcoin JSON-RPC Tutorial 5 - Your First Calls
 * [YouTube Tutorial 6](https://www.youtube.com/watch?v=FyLCKMqkWIA&index=6&list=PLhWIQKZKupCawKJQBAEJc-Y4I30HQ6KBH) Bitcoin JSON-RPC Tutorial 6 - JSON Parameters and Errors
 * [YouTube Tutorial 7](https://www.youtube.com/watch?v=o4BPt4RXOm4&index=7&list=PLhWIQKZKupCawKJQBAEJc-Y4I30HQ6KBH) Bitcoin JSON-RPC Tutorial 7 - Wallet Notify
+
+---
+*Forked from https://github.com/aceat64/EasyBitcoin-PHP*
